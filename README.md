@@ -1,4 +1,4 @@
-                                                         Aoba, Eu sou o Pedro Mendes 
+                                                         Aoba, Eu sou o Pedro Mendes .
                                                       - 🌱 Estudando para ser um dev Full stack.
                                                       - 🎓 Ciência da Computação - USP - 1/8
  
