@@ -13,7 +13,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/gmUmuAcdK78AAAAC/batman.gif">
+  <img align="right" alt="Pedro-pic" height="150" src="https://c.tenor.com/s_v9Bhwk8mgAAAAC/approves.gif"/>
 </div>
   
   ##
