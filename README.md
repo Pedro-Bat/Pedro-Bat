@@ -1,6 +1,6 @@
                                                          Aoba, Eu sou o Pedro Mendes .
                                                       - 🌱 Estudando para ser um dev Full stack.
-                                                      - 🎓 Ciência da Computação - USP - 1/8
+                                                      - 🎓 Ciência da Computação - USP - 2/8
  
 <div align="center">
   <a href="https://github.com/Pedro-Bat">
