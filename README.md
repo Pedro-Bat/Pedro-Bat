@@ -1,4 +1,4 @@
-                                                         Aoba, Eu sou o Pedro Mendes .
+                                                         Aoba, Eu sou o Pedro Mendes.
                                                       - 💻 Cybersecurity Analist.
                                                       - 🎓 Computer Sciense - USPRP - 5/8
  
