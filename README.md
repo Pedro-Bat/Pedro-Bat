@@ -1,6 +1,6 @@
                                                          Aoba, Eu sou o Pedro Mendes.
                                                       - 💻 Cybersecurity Analist.
-                                                      - 🎓 Computer Sciense - USPRP - 5/8
+                                                      - 🎓 Computer Sciense - USPRP - 6/8
  
 <div align="center">
   <a href="https://github.com/Pedro-Bat">
